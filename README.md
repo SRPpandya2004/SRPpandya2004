@@ -15,7 +15,7 @@ I’m a passionate **Computer Engineering 7th Semester** student with a keen int
 - Emerging trends in computer engineering and software development.
 
 ## 👩‍💻 Technologies & Tools
-- **Languages:** Python, C/C++ (if applicable)
+- **Languages:** Python
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, OpenCV
 - **Tools:** Jupyter Notebook, VS Code, and other development tools
 
